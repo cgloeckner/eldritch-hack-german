@@ -1,0 +1,1 @@
+[zur Übersetzung](https://github.com/cgloeckner/eldritch-hack-german/wiki)
