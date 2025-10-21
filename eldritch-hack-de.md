@@ -14,7 +14,7 @@ Hier sind einige Besonderheiten des Spiels:
 
 Danke, dass du dich für **Eldritch Hack RPG** entschieden hast. Wir hoffen du hast Spaß! Und vor allem: überlebst.
 
-- Dan Masters (Professor DM)
+Dan Masters (Professor DM)
 
 # Die Regeln
 
@@ -80,7 +80,7 @@ Sie ist ein Maß für die mentale Stabilität eines Charakters. Stabilität verr
 
 ### Geld
 
-**Eldritch Hack RPG** nnimmt an, dass die meisten Charaktere mittleren Alters sind und Geld haben. In diesem Spiel geht es um Horror, nicht Erbsenzählerei. Vermutlich haben alle Charaktere genug Geld um sich ein Flugticket nach Argentinen zu kaufen, eine Fahrt im Orient Express zu buchen oder einen Fremdenführer in Kairo anzuheuern.
+**Eldritch Hack RPG** nimmt an, dass die meisten Charaktere mittleren Alters sind und Geld haben. In diesem Spiel geht es um Horror, nicht Erbsenzählerei. Vermutlich haben alle Charaktere genug Geld um sich ein Flugticket nach Argentinen zu kaufen, eine Fahrt im Orient Express zu buchen oder einen Fremdenführer in Kairo anzuheuern.
 
 ### Ausrüstung
 
@@ -94,4 +94,27 @@ Es empfiehlt sich, dass alle Spielenden sich einen Backup-Charakter erstellen - 
 
 # Berufe
 
-WIP
+Die Spielenden können eine der folgenden Berufe wählen oder ihren eigenen erstellen. Auf jeden Beruf folgt eine Liste von 3 bis 5 kursiven Wörtern. Sie beschreiben die Fähigkeitsbereiche, in denen der Charakter glänzt.
+
+- **Autor**: *Schreiben*, *Geschichte*, *Okkultes*
+- **Antiquar**: *Einschätzen*, *Geschichte*, *Verhandeln*, *Kontakte*
+- **Archöologe**: *Archäologie*, *Alte Sprachen lesen*, *Fremdsprachen sprechen*
+- **Doktor**: *Erste Hilfe*, *Medizin*, *Psychologie*, *Chirurgie*
+- **Journalist**: *Überzeugen*, *Nachforschen*, *Spurensuche*
+- **Privatermittler**: *Fahren*, *Faustfeuerwaffen*, *Nachforschungen*, *Suchen*, *Schleichen*
+- **Professor**: *Alte Religionen*, *Anthropologie*, *Geschichte*, *Fremdsprachen*, *Nachforschungen* etc.
+- **Wissenschaftler**: *Biologie*, *Chemie*, *Astronomie*, *Physik* etc.
+- **Prominenter**: *Fahren*, *Fechten*, *Reiten*, *Überzeugen*
+- **Spezialist**: *Schauspiel*, *Fahren*, *Kampfsport*, *Pilot* etc.
+
+## Fähigkeiten und wie sie funktionieren
+
+Echte Personen verfügen oft über eine breite, manchmal vielseitige Fähigkeiten - und Charaktere in **Eldritch Hack RPG** sind nicht naders.
+
+Die Spielenden notieren 5-6 Fähigkeiten auf ihrem Charakterbogen in der "Notizen"-Box. Diese beeinhalten die durch die Berufen vorgeschlagenen Fähigkeiten und 2-3 andere - abhängig vom Segen der **SL**. Eine Spielerin kann entscheiden, dass ihre Archäologin eine Expertin mit der Peitsche ist, oder sich ihren Privatermittler als Jazz-Pianist vorstellen. Nutze deine Vorstellungskraft!
+
+Jedesmal wenn ein Charakter etwas versucht, das in seine Fähigkeitsgebiete fällt, addiert die Spielerin ihren **Können**-Wert zur **Probe**. Wenn die **SL** festlegt, dass die Handlung außerhalb der Fähigkeiten des Charakters liegen, dann addiert die Spielerin den **Können**-Wert NICHT. Die **SL** kann außerdem einen Nachteil auferlegen oder die Handlung als unmöglich festlegen (z.B. ein ungeübter Charakter der eine Herztransplantation versucht).
+
+Außerdem gilt: **Nur weil etwas nicht in der Fähigkeitsliste eines Charakters steht, heißt das nicht, dass dies gar nicht kann**. Alle Charaktere können beispielsweise Autofahren - in der Regel ohne Nachteil. Charaktere mit "Autofahren" als **Fähigkeit** können mit professionellen Rennfahrern mithalten. Eine untrainierte Person kann eine Pistole nehmen und den Abzug ziehen - aber keinen **Können**-Bonus erhalten.
+
+Kein System kann darauf hoffen alle Fähigkeiten abzudecken oder zu replizieren, wie Menschen sich im wahren Leben verhalten. Fähigkeitsbereiche sind eher als Richtlinien, nicht als verindliche Regeln zu sehen.
